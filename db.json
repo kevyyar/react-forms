@@ -1,7 +1,11 @@
 {
   "books": [
     {
-      "title": "Dark Tower The End",
+      "title": "New Book! v2",
+      "id": 1
+    },
+    {
+      "title": "Another Great Book Edited!",
       "id": 2
     }
   ]
